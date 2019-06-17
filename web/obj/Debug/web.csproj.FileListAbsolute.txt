@@ -1,0 +1,17 @@
+c:\users\kondrashkin\documents\visual studio 2015\Projects\web\web\bin\Debug\web.exe.config
+c:\users\kondrashkin\documents\visual studio 2015\Projects\web\web\bin\Debug\web.exe
+c:\users\kondrashkin\documents\visual studio 2015\Projects\web\web\bin\Debug\web.pdb
+c:\users\kondrashkin\documents\visual studio 2015\Projects\web\web\obj\Debug\web.Form1.resources
+c:\users\kondrashkin\documents\visual studio 2015\Projects\web\web\obj\Debug\web.Properties.Resources.resources
+c:\users\kondrashkin\documents\visual studio 2015\Projects\web\web\obj\Debug\web.csproj.GenerateResource.Cache
+c:\users\kondrashkin\documents\visual studio 2015\Projects\web\web\obj\Debug\web.exe
+c:\users\kondrashkin\documents\visual studio 2015\Projects\web\web\obj\Debug\web.pdb
+C:\Users\Kondrashkin\documents\visual studio 2015\Projects\web\web\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kondrashkin\documents\visual studio 2015\Projects\web\web\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kondrashkin\documents\visual studio 2015\Projects\web\web\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Kondrashkin\documents\visual studio 2015\Projects\web\web\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kondrashkin\documents\visual studio 2015\Projects\web\web\obj\Debug\web.Form2.resources
+C:\Users\Kondrashkin\documents\visual studio 2015\Projects\web\web\obj\Debug\RdlCompile.cache
+C:\Users\Kondrashkin\documents\visual studio 2015\Projects\web\web\obj\Debug\RdlCompile.compiled
+C:\Users\Kondrashkin\documents\visual studio 2015\Projects\web\web\bin\Debug\FormsDemo.accdb
+C:\Users\Kondrashkin\documents\visual studio 2015\Projects\web\web\obj\Debug\web.csprojResolveAssemblyReference.cache
